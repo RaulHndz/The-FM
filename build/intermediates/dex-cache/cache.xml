@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_c165d5a9cc8dece89178a4f71a06a2572b5b4c50.jar" />
+    </item>
+    <item
+        jar="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_90ca9149fa1946a6fa965c6fd6ac3a525a5a4bd5.jar" />
+    </item>
+    <item
+        jar="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_1a660cbadc39b02de22a5a527954eaeb897bff11.jar" />
+    </item>
+    <item
+        jar="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_cac5e21d025ce3a587b979d503f387c439bef3c1.jar" />
+    </item>
+    <item
+        jar="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_3c74a70b9058826c5c3251a5c4eb156406efb1b1.jar" />
+    </item>
+    <item
+        jar="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_c09be99a880f5b9c7865a2cba7c13aa08f869ab5.jar" />
+    </item>
+    <item
+        jar="/Users/RaulHndz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_320a2f70e5dfc2b1087f0c1640ac9b249f2af498.jar" />
+    </item>
+    <item
+        jar="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_80e7cc6e915559131c7b76e2f61d68a665442b08.jar" />
+    </item>
+    <item
+        jar="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/RaulHndz/AndroidStudioProjects/TheFM/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_db52197ba23fe35259056773102e6a6f73b1114e.jar" />
+    </item>
+
+</items>
