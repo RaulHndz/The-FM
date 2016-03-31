@@ -35,6 +35,9 @@ public class HypedArtistAdapter extends RecyclerView.Adapter<HypedArtistAdapter.
 
         // Inflamos la vista Item
         View itemView = LayoutInflater.from(context)
+                /**
+                 *Vista,contexto,evitar que se mezcle con otros contenedores
+                 */
                 .inflate(R.layout.item_hyped_artists, parent, false);
 
         return new HypedArtistViewHolder(itemView);
@@ -59,16 +62,17 @@ public class HypedArtistAdapter extends RecyclerView.Adapter<HypedArtistAdapter.
      *
      */
 
-    public  void addAll(@NonNull ArrayList<Artist> artists){
+    public void addAll(@NonNull ArrayList<Artist> artists) {
         if (artists == null)
             throw new NullPointerException("The items cannot be null");
 
         this.artists.addAll(artists);
-        notifyItemRangeInserted(getItemCount()-1,artists.size());
+        notifyDataSetChanged();
+        //notifyItemRangeInserted(getItemCount()-1,artists.size());
     }
 
     // Creamos clase aniada dentro de la clase principal
-    public class HypedArtistViewHolder extends RecyclerView.ViewHolder{
+    public class HypedArtistViewHolder extends RecyclerView.ViewHolder {
 
         TextView artistName;
         ImageView artistImage;
@@ -81,7 +85,7 @@ public class HypedArtistAdapter extends RecyclerView.Adapter<HypedArtistAdapter.
 
         }
 
-        public  void setArtistName(String name){
+        public void setArtistName(String name) {
             artistName.setText(name);
         }
 
